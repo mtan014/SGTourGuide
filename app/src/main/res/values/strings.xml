@@ -1,0 +1,91 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">SG Tour Guide</string>
+
+    <!-- Category name for a list of historical places [CHAR LIMIT=20] -->
+    <string name="category_historical">History</string>
+
+    <!-- Category name for a list of cultural attractions [CHAR LIMIT=20] -->
+    <string name="category_culture">Cultural</string>
+
+    <!-- Category name for a list of local food [CHAR LIMIT=20] -->
+    <string name="category_food">Food</string>
+
+    <!-- Category name for a list of local events [CHAR LIMIT=20] -->
+    <string name="category_events">Events</string>
+
+    <!-- List name for Historical attractions -->
+    <string name="Raffles_Name">Sir Stamford Raffles Statue</string>
+
+    <!-- List description for Historical attractions  -->
+    <string name="Raffles_Desc">founder of Modern Singapore</string>
+
+    <!-- List name for Historical attractions -->
+    <string name="Bukit_Chandu_Name">Bukit Chandu</string>
+
+    <!-- List description for Historical attractions -->
+    <string name="Bukit_Chandu_Desc">commemorating the Battle of Opium Hill through exhibits and artifacts</string>
+
+    <!-- List name for Historical attractions -->
+    <string name="War_Memorial">War Memorial</string>
+
+    <!-- List description for Historical attractions -->
+    <string name="War_Memorial_Desc">Memorial to the Civilian Victims of the Japanese Occupation</string>
+
+    <!-- List name for Cultural attractions -->
+    <string name="Chinese_Heritage">Chinese Heritage Centre</string>
+
+    <!-- List description for Cultural attractions -->
+    <string name="Chinese_Heritage_Desc">find out more about overseas Chinese communities and their culture</string>
+
+    <!-- List name for Cultural attractions -->
+    <string name="Malay_Heritage">Malay Heritage Centre</string>
+
+    <!-- List description for Cultural attractions -->
+    <string name="Malay_Heritage_Desc">find out more about Malay communities and their culture</string>
+
+    <!-- List name for Cultural attractions -->
+    <string name="Indian_Heritage">Indian Heritage Centre</string>
+
+    <!-- List description for Cultural attractions -->
+    <string name="Indian_Heritage_Desc">find out more about Indian communities and their culture</string>
+
+    <!-- List name for Food -->
+    <string name="Chicken_Rice">Chicken Rice </string>
+
+    <!-- List description for Food -->
+    <string name="Chicken_Desc">Hainanese styled chicken cooked with rice</string>
+
+    <!-- List name for Food-->
+    <string name="Nasi_Lemak">Nasi Lemak</string>
+
+    <!-- List description for Food-->
+    <string name="Nasi_Desc">Malay fragrant rice dish cooked in coconut milk and pandan leaf</string>
+
+    <!-- List name for Food -->
+    <string name="Roti_Prata">Roti Prata</string>
+
+    <!-- List description for Food -->
+    <string name="Roti_Desc"> fried flatbread that is cooked over a flat grill</string>
+
+    <!-- List name for Events -->
+    <string name="Chingay">Chingay Parade</string>
+
+    <!-- List description for Events -->
+    <string name="Chingay_Desc"> birthdays of the Chinese deities or the procession of the Goddess of Mercy as part of the Chinese New Year festivities</string>
+
+    <!-- List name for Events -->
+    <string name="Thaipusam">Thaipusam</string>
+
+    <!-- List description for Events -->
+    <string name="Thaipusam_Desc">Thaipusam or Thaipoosam is a festival celebrated by the Tamil community on the full moon in the Tamil month of Thai</string>
+
+    <!-- List name for Events -->
+    <string name="Zoukout">Zouk Out</string>
+
+    <!-- List description for Events-->
+    <string name="Zoukout_Desc">annual dance music festival</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello bl</string>
+</resources>

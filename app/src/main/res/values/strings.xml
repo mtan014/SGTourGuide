@@ -24,7 +24,7 @@
     <string name="Bukit_Chandu_Name">Bukit Chandu</string>
 
     <!-- List description for Historical attractions -->
-    <string name="Bukit_Chandu_Desc">commemorating the Battle of Opium Hill through exhibits and artifacts</string>
+    <string name="Bukit_Chandu_Desc">Commemorating the Battle of Opium Hill through exhibits and artifacts</string>
 
     <!-- List name for Historical attractions -->
     <string name="War_Memorial">War Memorial</string>
@@ -36,7 +36,7 @@
     <string name="Chinese_Heritage">Chinese Heritage Centre</string>
 
     <!-- List description for Cultural attractions -->
-    <string name="Chinese_Heritage_Desc">find out more about overseas Chinese communities and their culture</string>
+    <string name="Chinese_Heritage_Desc">Find out more about overseas Chinese communities and their culture</string>
 
     <!-- List name for Cultural attractions -->
     <string name="Malay_Heritage">Malay Heritage Centre</string>

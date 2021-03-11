@@ -10,4 +10,7 @@ jobs:
     steps:
       - checkout
       - run:
-          command: ./gradlew build
+          name: Build debug APK and release APK
+          command: |
+            ./gradlew :app:assembleDebug
+            ./gradlew :app:assembleDebugAndroidTest
